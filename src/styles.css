@@ -206,6 +206,13 @@ body {
   color: #a94b7e;
 }
 
+.hariom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+
 /* Desktop view */
 @media screen and (min-width: 768px) {
   .App {
@@ -375,4 +382,7 @@ body {
     font-size: 14px;
     width: 100%;
   }
+
+
+
 }
